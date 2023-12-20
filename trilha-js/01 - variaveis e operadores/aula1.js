@@ -7,3 +7,5 @@ const pi = 3.14; // valor insubistituível
 
 
 console.log(variavel);
+
+
